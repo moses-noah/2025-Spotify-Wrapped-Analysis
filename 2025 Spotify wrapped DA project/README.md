@@ -36,7 +36,7 @@ The goal was to analyze raw streaming history in order to understand listening h
 
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](Report & Dashboard Images/dDashboard.jpg)
+![Dashboard Screenshot](Report_&_Dashboard_Images/Dashboard.jpg)
 *(Note: Download the .pbix file to interact with the full dashboard)*
 
 ---
